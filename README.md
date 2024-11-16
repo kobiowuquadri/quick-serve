@@ -17,7 +17,7 @@ QUICKSERVE is a robust and advanced starter template designed to jump-start your
 
 ```
 QUICKSERVE/
-│
+│l
 ├── config/
 │   ├── swagger.js         # Swagger configuration for API documentation
 │
