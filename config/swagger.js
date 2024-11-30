@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url:'https://docify-backend.onrender.com'
+        url:'https://quick-serve.onrender.com'
       },
     ],
     schemes: ['http', 'https']  

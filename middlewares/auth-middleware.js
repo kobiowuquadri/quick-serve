@@ -17,7 +17,7 @@ export const verify = (req, res, next) => {
         return res.status(401).json({ auth: false, message: 'Unauthorized' });
       }
       
-      req.user = decodedToken; // Directly assign decoded token to req.user
+      req.user = decodedToken; 
       next();
     });
   } catch (err) {
