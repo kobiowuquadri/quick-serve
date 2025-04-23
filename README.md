@@ -105,14 +105,11 @@ Before you begin, ensure you have the following installed:
    `npm start`  
    Starts the server in production mode.
 
-- **Run tests**:  
-   You can add testing libraries (e.g., Jest, Mocha) and run tests as needed.
-
 ## API Documentation
 
 API endpoints are documented using Swagger. To view the documentation:
 1. Start the app using `npm run dev`
-2. Navigate to `http://localhost:3000/api-docs` to view and interact with the API.
+2. Navigate to `http://localhost:5000/api-docs` to view and interact with the API.
 
 ## Contributing
 
